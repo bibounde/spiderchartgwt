@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module>
-  <!-- Inherit our applications main module.                      -->
-  <inherits name='org.bibounde.spiderchartgwt.SpiderChart' />
-
-  <!-- Specify the path to any remote services.                   -->
-  <servlet path="/SpiderChart/greet" class="org.bibounde.spiderchartgwt.server.GreetingServiceImpl" />
-
-</module>
