@@ -113,7 +113,7 @@
 				<configuration>
 				    <webAppSourceDirectory>${webappDirectory}</webAppSourceDirectory>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
-					<stopKey>stopkey</stopKey>
+					<stopKey>stopit</stopKey>
 					<stopPort>9999</stopPort>
 				</configuration>
 			</plugin>
